@@ -1,10 +1,10 @@
 # AA-SGAN: Adversarially Augmented Social GAN with synthetic data
 
-A new implementation of [SGAN](https://arxiv.org/abs/1803.10892) that exploits both real trajectoiries and synthetic trajectories obtained from [JTA Dataset](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=25)
+A new implementation of [SGAN](https://arxiv.org/abs/1803.10892) that exploits both real trajectories and synthetic trajectories obtained from [JTA Dataset](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=25)
 
 This is the code for the paper:
 
-**<a href="https://arxiv.org/">AA-SGAN: Adversarially Augmented Social GAN with Synthetic Data</a>** 
+**<a href="https://arxiv.org/abs/2412.18038">AA-SGAN: Adversarially Augmented Social GAN with Synthetic Data</a>** 
 <br> 
 <a href="https://www.linkedin.com/in/mirkozaff/">Mirko Zaffaroni</a>, 
 <a href="https://www.linkedin.com/in/federico-signoretta-46a387160/">Federico Signoretta</a>, 
